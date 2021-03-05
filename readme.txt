@@ -1,9 +1,18 @@
-20b0164  Ahmad 'Afif Azhan Hj Mahri
+#Data Gathering and HTML Parsing
 
-This project is from a test that covers Data Gathering in python.
 The instruction is to acquire the top 100 rated movies in 
 https://www.rottentomatoes.com/top/bestofrt/
+and create a CSV files of it
 
-After snipping its html code, a table holding the ranks of the movies is selected
+#library used
+BeautifulSoup
+request 
+panda
 
-this table is then become content for data fram and saved into csv.
+
+#how it is processed
+
+
+#output
+
+
